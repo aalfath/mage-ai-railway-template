@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mage-ai-1?utm_medium=integration&utm_source=button&utm_campaign=mage-ai)
+
 # Mage AI on Railway
 
 This repo is the source of the **Mage AI** template on Railway. It deploys [Mage AI](https://github.com/mage-ai/mage-ai) **0.9.80**, the open-source data pipeline tool (an Airflow alternative), from the official image `mageai/mageai:0.9.80`, pinned by digest in the [`Dockerfile`](Dockerfile).
